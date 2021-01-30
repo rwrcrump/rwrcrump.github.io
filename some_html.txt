@@ -7,15 +7,15 @@
                     <h2 class="section-title">My Services</h2>
                   </div>
                 </div>
-              </div> 
+              </div>
               <div class="row">
                 <!-- Single service-->
-               <!-- <div class="col-12 col-md-6 col-lg-4">
+                <div class="col-12 col-md-6 col-lg-4">
                   <div class="single-service"><i class="icon service-icon ion-logo-css3"></i>
                     <h6 class="service-title">Design Trends</h6>
                     <p class="service-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                   </div>
-                </div> -->
+                </div>
                 <!-- Single service-->
                 <div class="col-12 col-md-6 col-lg-4">
                   <div class="single-service"><i class="icon service-icon ion-md-images"></i>
@@ -52,7 +52,7 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div> 
             <!-- Testimonials section-->
             <div class="testimonials-section single-section">
               <div class="row">
@@ -166,8 +166,150 @@
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+
+<!-- Video section-->
+            <div class="video-section single-section">
+              <div class="row align-items-center">
+                <div class="col-12 col-lg-6 content-part">
+                  <h3 class="video-title">Take a tour of my office</h3>
+                  <p class="video-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia cum quasi assumenda culpa praesentium consectetur voluptatibus expedita. Voluptatem tempore, aspernatur rem facilis, distinctio nemo! Odio velit, nemo dolorem voluptas!</p>
+                  <p class="video-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium qui aspernatur unde mollitia, in laborum.</p>
+                </div>
+                <div class="col-12 col-lg-6 video-part"><a class="media-lightbox" href="https://www.youtube.com/watch?v=doteMqP6eSc" data-lightbox>
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <div class="embed-responsive-item element-cover-bg"><span class="play-wrapper"><i class="icon ion-md-play"></i></span></div>
+                    </div>
+                  </a></div>
+              </div>
+            </div>
+
+<!-- Porfolio section-->
+<div class="portfolio-section single-section">
+              <div class="row">
+                <!-- Filter nav-->
+                <div class="col-12">
+                  <ul class="list-inline filter-control" role="group" aria-label="Filter Control">
+                    <li class="list-inline-item tab-active" data-filter="*">All</li>
+                    <li class="list-inline-item" data-filter=".brand">Brand</li>
+                    <li class="list-inline-item" data-filter=".design">Design</li>
+                    <li class="list-inline-item" data-filter=".photos">Photos</li>
+                  </ul>
+                </div>
+              </div>
+              <!-- Thumbnail list-->
+              <div class="portfolio-grid row">
+                <!-- Single item-->
+                <div class="single-item col-6 col-lg-4 design"><a class="portfolio-item" href="img/item-1.jpg" data-lightbox>
+                    <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-1.jpg">
+                      <div class="item-content">
+                        <h6 class="content-title">Label Tag Mockup</h6><span class="content-more">More Info</span>
+                      </div>
+                    </div>
+                  </a></div>
+                <!-- Single item-->
+                <div class="single-item col-6 col-lg-4 photos"><a class="portfolio-item" href="img/item-2.jpg" data-lightbox>
+                    <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-2.jpg">
+                      <div class="item-content">
+                        <h6 class="content-title">3D Bag Mockup</h6><span class="content-more">More Info</span>
+                      </div>
+                    </div>
+                  </a></div>
+                <!-- Single item-->
+                <div class="single-item col-6 col-lg-4 design"><a class="portfolio-item" href="img/item-3.jpg" data-lightbox>
+                    <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-3.jpg">
+                      <div class="item-content">
+                        <h6 class="content-title">Modern Bag Design</h6><span class="content-more">More Info</span>
+                      </div>
+                    </div>
+                  </a></div>
+                <!-- Single item-->
+                <div class="single-item col-6 col-lg-4 brand"><a class="portfolio-item" href="img/item-4.jpg" data-lightbox>
+                    <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-4.jpg">
+                      <div class="item-content">
+                        <h6 class="content-title">Coffee Cup Design</h6><span class="content-more">More Info</span>
+                      </div>
+                    </div>
+                  </a></div>
+                <!-- Single item-->
+                <div class="single-item col-6 col-lg-4 brand"><a class="portfolio-item" href="img/item-5.jpg" data-lightbox>
+                    <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-5.jpg">
+                      <div class="item-content">
+                        <h6 class="content-title">T-Shirt Design</h6><span class="content-more">More Info</span>
+                      </div>
+                    </div>
+                  </a></div>
+                <!-- Single item-->
+                <div class="single-item col-6 col-lg-4 photos"><a class="portfolio-item" href="img/item-6.jpg" data-lightbox>
+                    <div class="portfolio-wrapper"><img class="img-fluid" alt="Item" src="img/item-6.jpg">
+                      <div class="item-content">
+                        <h6 class="content-title">Packaging Box Mockup</h6><span class="content-more">More Info</span>
+                      </div>
+                    </div>
+                  </a></div>
+              </div>
+            </div>
+
+<!-- Blog section-->
+            <div class="blog-section single-section">
+              <div class="row justify-content-center">
+                <!-- Single post-->
+                <div class="col-12 col-sm-8 col-lg-4">
+                  <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-1.jpg" alt="Blog post"><span class="content-date">11 Dec, 20</span></a>
+                    <div class="card-body post-content"><a href="#0">
+                        <h5 class="card-title content-title">Top tools for Photographers</h5>
+                      </a>
+                      <p class="card-text content-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Single post-->
+                <div class="col-12 col-sm-8 col-lg-4">
+                  <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-2.jpg" alt="Blog post"><span class="content-date">12 Aug, 20</span></a>
+                    <div class="card-body post-content"><a href="#0">
+                        <h5 class="card-title content-title">Take a tour of my office</h5>
+                      </a>
+                      <p class="card-text content-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Single post-->
+                <div class="col-12 col-sm-8 col-lg-4">
+                  <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-3.jpg" alt="Blog post"><span class="content-date">4 Feb, 20</span></a>
+                    <div class="card-body post-content"><a href="#0">
+                        <h5 class="card-title content-title">How i became a Web Designer</h5>
+                      </a>
+                      <p class="card-text content-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    </div>
+                  </div>
+                </div><!-- Single post-->
+                <div class="col-12 col-sm-8 col-lg-4">
+                  <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-4.jpg" alt="Blog post"><span class="content-date">11 Dec, 19</span></a>
+                    <div class="card-body post-content"><a href="#0">
+                        <h5 class="card-title content-title">How to improve work performance</h5>
+                      </a>
+                      <p class="card-text content-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Single post-->
+                <div class="col-12 col-sm-8 col-lg-4">
+                  <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-5.jpg" alt="Blog post"><span class="content-date">15 Nov, 19</span></a>
+                    <div class="card-body post-content"><a href="#0">
+                        <h5 class="card-title content-title">How to work from home</h5>
+                      </a>
+                      <p class="card-text content-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Single post-->
+                <div class="col-12 col-sm-8 col-lg-4">
+                  <div class="card single-post"><a class="post-img" href="#0"><img class="card-img-top" src="img/post-6.jpg" alt="Blog post"><span class="content-date">8 Aug, 19</span></a>
+                    <div class="card-body post-content"><a href="#0">
+                        <h5 class="card-title content-title">How to enjoy your business trip</h5>
+                      </a>
+                      <p class="card-text content-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
