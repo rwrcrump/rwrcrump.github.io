@@ -1,3 +1,22 @@
+                    <!-- <address class="content-info">
+                      <div class="row">
+                        <div class="col-12 col-md-6 single-info"><span>Name:</span>
+                          <p>Robert Crump</p>
+                        </div>
+                        <div class="col-12 col-md-6 single-info"><span>Email:</span>
+                          <p><a href="rwrcrump@uchicago.edu">rwrcrump@uchicago.edu</a></p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-12 col-md-6 single-info"><span>Age:</span>
+                          <p>21</p>
+                        </div>
+                        <div class="col-12 col-md-6 single-info"><span>From:</span>
+                          <p>Liverpool, UK</p>
+                        </div>
+                      </div>
+                    </address> -->
+
             <!-- Services section-->
             <div class="services-section single-section">
               <div class="row">
